@@ -3,7 +3,7 @@
 A Python desktop app that visualises Prim's Algorithm and Nearest Neighbour Heuristic step by step on a weighted graph to find the upper and lower bounds.
 
 ## Why I built this
-Students often struggle to visualise how algorithms like Prim's and NNA work in practice. I ran stakeholder interviews and observations to confirm this, then built an interactive tool to animate both algorithms on live graphs.
+Students often struggle to visualise how algorithms like Prim's and NNA work in practice. I ran stakeholder interviews and observations to confirm this, then built an interactive tool to animate both algorithms on live graphs; I used this in my AQA Computer Science NEA
 
 ## Tech Stack
 - Python
