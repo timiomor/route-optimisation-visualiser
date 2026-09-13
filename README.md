@@ -23,11 +23,7 @@ Used by my maths teacher in class - 90% of students reported improved understand
 
 ### Input matrix screen
 ![Input matrix screen](input_matrix_screen.png)
-### Prims Result
-![Prims result](prims_result.png)
 ### NNA result
 ![NNA result](nna_result.png)
 ### Lower bound 
 ![Lower bound Calculation](lower_bound.png)
-### Saving matrix
-![Saving matrix](savematrix.png)
